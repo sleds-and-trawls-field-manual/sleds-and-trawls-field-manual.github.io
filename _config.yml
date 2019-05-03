@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Survey design marine sampling field manual" 
+title: "Sleds and Bottom Trawls field manual" 
 description: "."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: "https://survey-design-field-manual.github.io"
+url: "https://sleds-and-trawls-field-manual-field-manual.github.io"
 feed:
   path: atom.xml
 
