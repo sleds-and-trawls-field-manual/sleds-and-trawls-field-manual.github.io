@@ -1,59 +1,45 @@
 # Site navigation links
-- title: "Survey Design field manual home"
-  url: https://survey-design-field-manual.github.io
+- title: "Sleds and Trawls field manual home"
+  url: https://sleds-and-trawls-field-manual.github.io
   excerpt: "Authors, citation and give feedback"
   image: /5x8/Home-blue_5x8.jpg
-- title: "Introduction"
-  url: https://survey-design-field-manual.github.io/introduction
-  excerpt: "Scope for the survey design field manual"
+- title: "Platform description"
+  url: https://sleds-and-trawls-field-manual.github.io/platform-description
+  excerpt: ""
+  image: /5x8/00_5x8.jpg
+- title: "Scope"
+  url: https://sleds-and-trawls-field-manual.github.io//scope
+  excerpt: ""
   image: /5x8/01_5x8.jpg
-- title: "Research Objective(s)"
-  url: https://survey-design-field-manual.github.io/research-objectives
-  excerpt: "Setting your research objectives"
+- title: "Sleds and Trawls in marine monitoring"
+  url: https://sleds-and-trawls-field-manual.github.io/sleds-and-trawls-in-marine-monitoring
+  excerpt: ""
   image: /5x8/02_5x8.jpg
-- title: "Random sampling"
-  url: https://survey-design-field-manual.github.io/random-sampling
-  excerpt: "Making sure your research questions are answerable"
+- title: "Equipment"
+  url: https://sleds-and-trawls-field-manual.github.io/equipment
+  excerpt: "Equipment"
   image: /5x8/03_5x8.jpg
-- title: "Efficient Designs"
-  url: https://survey-design-field-manual.github.io/efficient-designs
-  excerpt: "Spatialy balanced designs and software to help"
+- title: "Pre-survey Preparations"
+  url: https://sleds-and-trawls-field-manual.github.io/pre-survey-preparations
+  excerpt: "Pre-survey checklist"
   image: /5x8/04_5x8.jpg
-- title: "Uncertainty, Precision, and Power"
-  url: https://survey-design-field-manual.github.io/uncertainty-precision-power
-  excerpt: ""
+- title: "Field procedures"
+  url: https://sleds-and-trawls-field-manual.github.io/field-procedures
+  excerpt: "Sample acquisition, processing and storage"
   image: /5x8/05_5x8.jpg
-- title: "Spatio-Temporal Sampling"
-  url: https://survey-design-field-manual.github.io/spatio-temporal-sampling
-  excerpt: "Sampling in space and time"
+- title: "Post-survey procedures"
+  url: https://sleds-and-trawls-field-manual.github.io/post-survey-procedures
+  excerpt: "Sample curation and data release"
   image: /5x8/06_5x8.jpg
-- title: "Gear-Specific Considerations"
-  url: https://survey-design-field-manual.github.io/gear-specific-considerations
-  excerpt: "What to consider when choosing your sampling method"
+- title: "Field manual maintenance"
+  url: https://sleds-and-trawls-field-manual.github.io/field-manual-maintenance
+  excerpt: "Version control"
   image: /5x8/07_5x8.jpg
-- title: "Mapping as a Foundation"
-  url: https://survey-design-field-manual.github.io/mapping-as-a-foundation
-  excerpt: "Seafloor data from multibeam sonar"
-  image: /5x8/08_5x8.jpg
-- title: "Field Manual Maintenance"
-  url: https://survey-design-field-manual.github.io/field-manual-maintenance
-  excerpt: "Updates and developments"
-  image: /5x8/09_5x8.jpg
-- title: "Case Study: Surveying a Marine Park in Tasmania"
-  url: https://survey-design-field-manual.github.io/case-study
-  excerpt: ""
-  image: /5x8/10_5x8.jpg
-- title: "Set Up R to Generate Design"
-  url: https://survey-design-field-manual.github.io/set-up-r-to-generate-design
-  excerpt: ""
-  image: /5x8/11_5x8.jpg
 - title: "References"
-  url: https://survey-design-field-manual.github.io/references
+  url: https://sleds-and-trawls-field-manual.github.io/references
   excerpt: "Literature cited"
-  image: /5x8/12_5x8.jpg
+  image: /5x8/08_5x8.jpg
 - title: "Field Manual Homepage"
-  url: https://www.nespmarine.edu.au/field-manuals
+  url: https://marine-sampling-field-manual.github.io/
   excerpt: "Back to all field manuals"
   image: /5x8/NESP_5x8.jpg
-
-
