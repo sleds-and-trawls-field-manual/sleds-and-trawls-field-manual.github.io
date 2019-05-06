@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Statistical Considerations for Monitoring and Sampling"
+title: "enthic Sleds and Bottom Trawls"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
@@ -10,9 +10,13 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Rachel Przeslawski
+[Scott D. Foster](mailto:scott.foster@csiro.au)
+
+[Rachel Przeslawski](mailto:rachel.przeslawski@ga.gov.au), Franzis Althaus, Malcolm Clark, Jamie Colquhoun, Dan Gledhill, Scott Foster, Tim O’Hara
+
 
 ![image alt text](images/Surveydesign.jpg)
 
 Chapter citation:
-Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, Przeslawski R. 2018. Statistical considerations for monitoring and sampling. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp 23-41. 
+Przeslawski R, Althaus F, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, O’Hara T, Proctor R. 2019. Marine sampling field manual for benthic sleds and bottom trawls. In Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
+
