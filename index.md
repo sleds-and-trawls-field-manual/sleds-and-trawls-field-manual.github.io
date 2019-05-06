@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "enthic Sleds and Bottom Trawls"
+title: "Benthic Sleds and Bottom Trawls"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
