@@ -10,10 +10,7 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Scott D. Foster](mailto:scott.foster@csiro.au)
-
 [Rachel Przeslawski](mailto:rachel.przeslawski@ga.gov.au), Franzis Althaus, Malcolm Clark, Jamie Colquhoun, Dan Gledhill, Scott Foster, Tim O’Hara
-
 
 ![image alt text](images/sleds-and-trawls.jpg)
 
