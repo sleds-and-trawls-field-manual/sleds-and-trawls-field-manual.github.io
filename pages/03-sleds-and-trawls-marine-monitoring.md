@@ -1,5 +1,5 @@
 ---
-permalink: /sleds-and-trawls-marine-monitoring
+permalink: /sleds-and-trawls-in-marine-monitoring
 title: "Sleds and Trawls in Marine Monitoring"
 excerpt: ""
 image:
