@@ -2,7 +2,7 @@
 layout: home
 permalink: /field-manual-maintenance
 title: "Field Manual Maintenance"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/post-survey_banner.jpg
 ---
@@ -46,4 +46,4 @@ The version control for Chapter 8 (field manual for sleds and trawls) is below:
 Revised Data Release section 
    </td>
    <td>May 2020
-   </td>
+
