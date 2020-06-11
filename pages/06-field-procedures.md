@@ -10,12 +10,7 @@ image:
 
 A visual summary of the key steps to follow when deploying benthic sleds or bottom trawls is shown in Figure 8.1.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/figures/figure_1.png "image_tooltip")
 
 
 Figure 8.1 Images from key steps involved in the use of benthic sleds and bottom trawls for marine monitoring: a) a modified WHOI sled with attached pipe dredges, b) seafloor imagery from towed video and bathymetric grids, c) lowering the AIMS benthic sled, d) sorting animals on the back deck, e) photographing specimens in ship laboratory, f) securely sealed containers to ship animals to museums
