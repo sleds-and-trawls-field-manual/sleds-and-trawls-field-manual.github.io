@@ -70,8 +70,9 @@ Figure 8.1 Images from key steps involved in the use of benthic sleds and bottom
     
 
 
+<p>
 Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event data) from each sled or trawl haul. Waterproof paper and pen/pencil is required.
-
+</p>
 
 <table>
   <tr>
@@ -525,13 +526,12 @@ Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event da
 </table>
 
 
-<sup>8 </sup>Record the length and angle of wire payed out during seafloor contact. This is required if deep water survey with no USBL; otherwise recommended. \
-<sup>9 </sup>Include units (e.g. kilograms) \
-<sup>10</sup> Record person entering data, spread of trawl doors if applicable \
-<sup>11</sup> UTC timezone
-
+<p>
+<sup>8 </sup>Record the length and angle of wire payed out during seafloor contact. This is required if deep water survey with no USBL; otherwise recommended.<br><sup>9 </sup>Include units (e.g. kilograms)<br><sup>10</sup> Record person entering data, spread of trawl doors if applicable<br><sup>11</sup> UTC timezone
+</p>
+<p>
 Table 8.3 Sample field datasheet to record metadata from each sorted biological sample. Waterproof paper and pen/pencil is required.
-
+</p>
 
 <table>
   <tr>
@@ -901,4 +901,6 @@ Table 8.3 Sample field datasheet to record metadata from each sorted biological 
 </table>
 
 
+<p>
 
+</p>
