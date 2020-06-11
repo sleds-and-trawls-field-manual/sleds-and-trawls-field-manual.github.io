@@ -47,5 +47,3 @@ Revised Data Release section
    </td>
    <td>May 2020
    </td>
-  </tr>
-</table>
