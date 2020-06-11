@@ -4,6 +4,6 @@ permalink: /platform-description
 title: "Platform Description"
 excerpt: "<br>"
 image:
-  feature: /banners/equipment_banner.JPG
+  feature: /banners/post-survey_banner.jpg
 toc: true
 ---

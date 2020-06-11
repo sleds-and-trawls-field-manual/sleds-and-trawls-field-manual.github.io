@@ -4,7 +4,7 @@ permalink: /
 title: "Benthic Sleds and Bottom Trawls"
 excerpt: ""
 image:
-  feature: /banners/00_banner.jpg
+  feature: /banners/post-survey_banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
