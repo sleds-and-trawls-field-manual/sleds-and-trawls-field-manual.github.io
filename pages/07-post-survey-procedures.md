@@ -4,6 +4,6 @@ permalink: /post-survey-procedures
 title: "Post Survey Procedures"
 excerpt: ""
 image:
-  feature: /banners/07_banner.jpg
+  feature: /banners/post-survey_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
