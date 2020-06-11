@@ -27,7 +27,7 @@ Przeslawski R, Althaus F, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, 
 |       _[Pre-survey checklist](https://sleds-and-trawls-field-manual.github.io/pre-survey-preparations)_                              |
 |  **[Field Procedures](https://sleds-and-trawls-field-manual.github.io/field-procedures)**                                            |
 |       _[Onboard sample acquisition](https://sleds-and-trawls-field-manual.github.io/field-procedures#onboard-sample-acquisition)_    |
-|       _[Onboard sample processing]https://sleds-and-trawls-field-manual.github.io/field-procedures#onboard-sample-processing)_       |
+|       _[Onboard sample processing](https://sleds-and-trawls-field-manual.github.io/field-procedures#onboard-sample-processing)_       |
 |       _[Onboard sample storage](https://sleds-and-trawls-field-manual.github.io/field-procedures#onboard-sample-storage)_            |
 |  **[Post-survey Procedures](https://sleds-and-trawls-field-manual.github.io/post-survey-procedures)**                                |
 |       _[Sample curation](https://sleds-and-trawls-field-manual.github.io/post-survey-procedures#sample-curation)_                    |
