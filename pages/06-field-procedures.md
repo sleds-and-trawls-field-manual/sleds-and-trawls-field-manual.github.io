@@ -2,7 +2,7 @@
 layout: home
 permalink: /field-procedures
 title: "Field Procedures"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/field-procedures_banner.JPG
 ---

@@ -2,7 +2,7 @@
 layout: home
 permalink: /equipment
 title: "Equipment"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/platform-description_banner.JPG
 ---

@@ -1,7 +1,7 @@
 ---
 permalink: /sleds-and-trawls-in-marine-monitoring
 title: "Sleds and Trawls in Marine Monitoring"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/sleds-in-marine-monitoring_banner.JPG
 layout: home
