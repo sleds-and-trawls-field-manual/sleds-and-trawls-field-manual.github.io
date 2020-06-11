@@ -81,12 +81,12 @@ Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event da
     <th colspan="3">Gear in water</th>
     <th colspan="4">Gear on bottom</th>
     <th>Tow speed</th>
-    <th>Wire out (length)8</th>
-    <th>Wire out (angle)8</th>
+    <th>Wire out (length)<sup>8</sup></th>
+    <th>Wire out (angle)<sup>8</sup></th>
     <th colspan="4">Gear off bottom</th>
     <th colspan="3">Gear out of water</th>
-    <th>Total catch biomass9</th>
-    <th>Notes10</th>
+    <th>Total catch biomass<sup>9</sup></th>
+    <th>Notes<sup>10</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -98,7 +98,7 @@ Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event da
     <td>Lon</td>
     <td>Lat</td>
     <td>Depth</td>
-    <td>Time11</td>
+    <td>Time<sup>11</sup></td>
     <td></td>
     <td></td>
     <td></td>
@@ -108,7 +108,7 @@ Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event da
     <td>Time11</td>
     <td>Lon</td>
     <td>Lat</td>
-    <td>Time11</td>
+    <td>Time<sup>11</sup></td>
     <td></td>
     <td></td>
   </tr>
@@ -315,6 +315,10 @@ Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event da
   </tr>
 </tbody>
 </table>
+
+<p>
+<sup>8 </sup>Record the length and angle of wire payed out during seafloor contact. This is required if deep water survey with no USBL; otherwise recommended.<br><sup>9 </sup>Include units (e.g. kilograms)<br><sup>10</sup> Record person entering data, spread of trawl doors if applicable<br><sup>11</sup> UTC timezone
+</p>
 
 
 <p>
