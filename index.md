@@ -24,7 +24,7 @@ Przeslawski R, Althaus F, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, 
 |  **[Sleds and Trawls for Marine Monitoring](https://sleds-and-trawls-field-manual.github.io/sleds-and-trawls-in-marine-monitoring)** |
 | **[Equipment](https://sleds-and-trawls-field-manual.github.io/equipment)**                                                           |
 |  **[Pre-Survey Preparations](https://sleds-and-trawls-field-manual.github.io/pre-survey-preparations)**                              |
-|       _[Pre-survey checklist](https://sleds-and-trawls-field-manual.github.io/pre-survey-preparations)_                              |
+|       _[Pre-survey checklist](https://sleds-and-trawls-field-manual.github.io/pre-survey-preparations#pre-survey-checklist)_                              |
 |  **[Field Procedures](https://sleds-and-trawls-field-manual.github.io/field-procedures)**                                            |
 |       _[Onboard sample acquisition](https://sleds-and-trawls-field-manual.github.io/field-procedures#onboard-sample-acquisition)_    |
 |       _[Onboard sample processing](https://sleds-and-trawls-field-manual.github.io/field-procedures#onboard-sample-processing)_       |
