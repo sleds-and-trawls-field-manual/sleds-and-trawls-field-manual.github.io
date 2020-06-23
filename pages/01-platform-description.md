@@ -268,7 +268,6 @@ For further information on the advantages and disadvantages of sleds and trawls 
    </td>
    <td>(Wassenberg et al. 1997)
    </td>
-  </tr>
   <tr>
    <td>McKenna market trawl (CSIRO)
    </td>
@@ -286,5 +285,3 @@ For further information on the advantages and disadvantages of sleds and trawls 
    </td>
    <td>SEF voyages, NWS voyages, <em>RV Investigator </em>deep-sea
    </td>
-   </tbody>
-
