@@ -50,6 +50,5 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 *   Metadata is authored from any existing metadata or publications.
 *   Finally the datasets is published via the OBIS Australia data node[ http://ogc-act.csiro.au/ipt/](http://ogc-act.csiro.au/ipt/)
 
-<p dir="rtl">
-OBISAU has the option to publish the data at the same time directly to GBIF, and it has developed a service to inform ALA that a new dataset is available to be harvested for inclusion into ALA.</p>
+OBISAU has the option to publish the data at the same time directly to GBIF, and it has developed a service to inform ALA that a new dataset is available to be harvested for inclusion into ALA.
 
