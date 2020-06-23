@@ -53,14 +53,15 @@ Collection ethics approval may also be required from the research institution. I
 
 
 <table>
+<thead>
   <tr>
    <td>
    </td>
-   <td>Task
-   </td>
-   <td>Description/comments
-   </td>
+   <td><strong>Task</strong></td>
+   <td><strong>Description/comments</strong></td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>□
    </td>
@@ -173,7 +174,5 @@ Collection ethics approval may also be required from the research institution. I
    <td>
    </td>
   </tr>
+ </tbody>
 </table>
-
-
-

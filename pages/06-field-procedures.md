@@ -13,7 +13,7 @@ A visual summary of the key steps to follow when deploying benthic sleds or bott
 ![alt_text](images/figures/figure_1.png "image_tooltip")
 
 
-Figure 8.1 Images from key steps involved in the use of benthic sleds and bottom trawls for marine monitoring: a) a modified WHOI sled with attached pipe dredges, b) seafloor imagery from towed video and bathymetric grids, c) lowering the AIMS benthic sled, d) sorting animals on the back deck, e) photographing specimens in ship laboratory, f) securely sealed containers to ship animals to museums
+**Figure 8.1:** Images from key steps involved in the use of benthic sleds and bottom trawls for marine monitoring: a) a modified WHOI sled with attached pipe dredges, b) seafloor imagery from towed video and bathymetric grids, c) lowering the AIMS benthic sled, d) sorting animals on the back deck, e) photographing specimens in ship laboratory, f) securely sealed containers to ship animals to museums
 
 
 ## Onboard sample acquisition 
@@ -71,7 +71,7 @@ Figure 8.1 Images from key steps involved in the use of benthic sleds and bottom
 
 
 <p>
-Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event data) from each sled or trawl haul. Waterproof paper and pen/pencil is required.
+<strong>Table 8.2:</strong> Sample field datasheet to record metadata (i.e. deployment or event data) from each sled or trawl haul. Waterproof paper and pen/pencil is required.
 </p>
 
 <table>
@@ -322,36 +322,27 @@ Table 8.2 Sample field datasheet to record metadata (i.e. deployment or event da
 
 
 <p>
-Table 8.3 Sample field datasheet to record metadata from each sorted biological sample. Waterproof paper and pen/pencil is required.
+<strong>Table 8.3:</strong> Sample field datasheet to record metadata from each sorted biological sample. Waterproof paper and pen/pencil is required.
 </p>
 
 <table>
   <tr>
-   <td>Tow ID
-   </td>
-   <td>Sample ID
-   </td>
-   <td>Phylum
-   </td>
-   <td>Class
-   </td>
-   <td>Order
-   </td>
-   <td>Family
-   </td>
-   <td>Genus, Species / Common Name
-   </td>
-   <td>Weight
-   </td>
-   <td>Abundance
-   </td>
-   <td>Preservative / Quantity
-   </td>
-   <td>Photos
-   </td>
-   <td>Notes
-   </td>
+  <thead>
+   <td><strong>Tow ID</strong></td>
+   <td><strong>Sample ID</strong></td>
+   <td><strong>Phylum</strong></td>
+   <td><strong>Class</strong></td>
+   <td><strong>Order</strong></td>
+   <td><strong>Family</strong></td>
+   <td><strong>Genus, Species / Common Name</strong></td>
+   <td><strong>Weight</strong></td>
+   <td><strong>Abundance</strong></td>
+   <td><strong>Preservative / Quantity</strong></td>
+   <td><strong>Photos</strong></td>
+   <td><strong>Notes</strong></td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>
    </td>
@@ -690,9 +681,5 @@ Table 8.3 Sample field datasheet to record metadata from each sorted biological 
    <td>
    </td>
   </tr>
+  </tbody>
 </table>
-
-
-<p>
-
-</p>

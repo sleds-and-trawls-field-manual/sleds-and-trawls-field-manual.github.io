@@ -14,6 +14,7 @@ The version control for Chapter 8 (field manual for sleds and trawls) is below:
 
 
 <table>
+<thead>
   <tr>
    <td>Version Number
    </td>
@@ -22,6 +23,8 @@ The version control for Chapter 8 (field manual for sleds and trawls) is below:
    <td>Date
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>0
    </td>
@@ -41,8 +44,9 @@ The version control for Chapter 8 (field manual for sleds and trawls) is below:
   <tr>
    <td>2
    </td>
-   <td>Minor corrections, updates and clarifications.
-<p>
-Revised Data Release section 
+   <td>Minor corrections, updates and clarifications.<br>
+   Revised Data Release section 
    <td>May 2020
+   </td>
+   </tbody>
 
