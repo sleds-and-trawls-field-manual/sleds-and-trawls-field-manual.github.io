@@ -286,6 +286,3 @@ For further information on the advantages and disadvantages of sleds and trawls 
    </td>
    <td>SEF voyages, NWS voyages, <em>RV Investigator </em>deep-sea
    </td>
-   </tr>
-   </tbody>
-
