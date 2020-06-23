@@ -1,7 +1,7 @@
 # Site navigation links
-- title: "Download field manual"
+- title: "Download Field Manual"
   url: https://sleds-and-trawls-field-manual.github.io/files/Chapter%208_Sleds%20Field%20Manual%20V2.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: ""
   image: /5x8/download_5x8.jpg
 - title: "Platform Description"
   url: https://sleds-and-trawls-field-manual.github.io/platform-description
@@ -17,25 +17,25 @@
   image: /5x8/sleds-in-marine-monitoring_teaser.JPG
 - title: "Equipment"
   url: https://sleds-and-trawls-field-manual.github.io/equipment
-  excerpt: "Equipment"
+  excerpt: ""
   image: /5x8/equipment_teaser.jpg
 - title: "Pre-survey Preparations"
   url: https://sleds-and-trawls-field-manual.github.io/pre-survey-preparations
-  excerpt: "Pre-survey Checklist"
+  excerpt: ""
   image: /5x8/presurvey-preparations_teaser.jpg
 - title: "Field Procedures"
   url: https://sleds-and-trawls-field-manual.github.io/field-procedures
-  excerpt: "Sample acquisition, processing and storage"
+  excerpt: ""
   image: /5x8/field-procedures_teaser.jpg
-- title: "Post-survey procedures"
+- title: "Post-survey Procedures"
   url: https://sleds-and-trawls-field-manual.github.io/post-survey-procedures
-  excerpt: "Sample curation and data release"
+  excerpt: ""
   image: /5x8/post-survey_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://sleds-and-trawls-field-manual.github.io/field-manual-maintenance
-  excerpt: "Version control"
+  excerpt: ""
   image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "References"
   url: https://sleds-and-trawls-field-manual.github.io/references
-  excerpt: "Literature cited"
+  excerpt: ""
   image: /5x8/references_teaser.jpg
