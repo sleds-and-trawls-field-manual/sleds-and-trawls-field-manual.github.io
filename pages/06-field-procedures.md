@@ -654,7 +654,6 @@ A visual summary of the key steps to follow when deploying benthic sleds or bott
    </td>
    <td>
    </td>
-  </tr>
   <tr>
    <td>
    </td>
