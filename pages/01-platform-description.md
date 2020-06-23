@@ -36,10 +36,7 @@ For further information on the advantages and disadvantages of sleds and trawls 
   <tr>
    <td>Sherman (CSIRO-SEBS) sled
    </td>
-   <td>600 x
-<p>
-1200 mm
-   </td>
+   <td>600 x 1200 mm</td>
    <td>860 kg (excluding modifications from Lewis 2009)
    </td>
    <td>Benthic invertebrates and fish
