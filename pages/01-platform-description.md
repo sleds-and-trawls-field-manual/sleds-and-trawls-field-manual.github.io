@@ -16,28 +16,23 @@ There is no one type of sled or trawl suitable for all habitats and depths, and 
 
 For further information on the advantages and disadvantages of sleds and trawls compared to other benthic sampling platforms, refer to _Comparative assessment of seafloor sampling platforms_ Przeslawski et al 2018).
 
-Table 8.1 Types of benthic sleds and trawls deployed in Australian waters and their associated characteristics. See reviews on benthic sleds and trawls for information about gear deployed elsewhere in the world (Clark et al. 2016, Kaiser and Brenke 2016). Unavailable indicates information that was unable to be obtained for this manual.
+**Table 8.1:** Types of benthic sleds and trawls deployed in Australian waters and their associated characteristics. See reviews on benthic sleds and trawls for information about gear deployed elsewhere in the world (Clark et al. 2016, Kaiser and Brenke 2016). Unavailable indicates information that was unable to be obtained for this manual.
 
 
 <table>
+<thead>
   <tr>
-   <td>Type
-   </td>
-   <td>Dimensions (mouth, h x w)
-   </td>
-   <td>Weight
-   </td>
-   <td>Target taxa
-   </td>
-   <td>Cod end
-   </td>
-   <td>Other features
-   </td>
-   <td>Suitable terrain
-   </td>
-   <td>Ref
-   </td>
+   <td><strong>Type</strong></td>
+   <td><strong>Dimensions (mouth, h x w)</strong></td>
+   <td><strong>Weight</strong></td>
+   <td><strong>Target taxa</strong></td>
+   <td><strong>Cod end</strong></td>
+   <td><strong>Other features</strong></td>
+   <td><strong>Suitable terrain</strong></td>
+   <td><strong>Ref</strong></td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>Sherman (CSIRO-SEBS) sled
    </td>
@@ -291,4 +286,6 @@ Table 8.1 Types of benthic sleds and trawls deployed in Australian waters and th
    </td>
    <td>SEF voyages, NWS voyages, <em>RV Investigator </em>deep-sea
    </td>
+   </tr>
+   </tbody>
 
