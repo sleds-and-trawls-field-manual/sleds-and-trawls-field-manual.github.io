@@ -16,11 +16,11 @@ The version control for Chapter 8 (field manual for sleds and trawls) is below:
 <table>
 <thead>
   <tr>
-   <td>Version Number
+   <td><strong>Version Number</strong>
    </td>
-   <td>Description
+   <td><strong>Description</strong>
    </td>
-   <td>Date
+   <td><strong>Date</strong>
    </td>
   </tr>
   </thead>
