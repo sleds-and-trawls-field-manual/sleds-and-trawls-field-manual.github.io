@@ -44,6 +44,5 @@ The version control for Chapter 8 (field manual for sleds and trawls) is below:
    <td>Minor corrections, updates and clarifications.
 <p>
 Revised Data Release section 
-   </td>
    <td>May 2020
 
