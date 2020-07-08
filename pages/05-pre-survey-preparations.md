@@ -24,7 +24,7 @@ The <span style="text-decoration:underline;">level of onboard searching and sort
 
 <span style="text-decoration:underline;">Decide on preservation methods</span>. This should be done in consultation with curators, taxonomists, molecular biologists, and biochemists that will be involved in using the samples. See Coggan et al. (2005) and Schiaparelli et al. (2016b) for information about appropriate preservatives for a range of taxa and purposes (e.g., species identification and description, genetic analysis, biochemical analysis), noting the variation between taxa.
 
-<span style="text-decoration:underline;">Ensure adequate risk assessments are undertaken</span> regarding safety and use of chemical onboard (i.e. ethanol, formalin), abiding by relevant state and federal legislation. This should include where appropriate onboard storage for chemicals, as well as personal protective gear, ventilation, and safety data sheets for hazardous chemicals.
+<span style="text-decoration:underline;">Ensure adequate risk assessments are undertaken</span> regarding safety and use of chemicals onboard (i.e. ethanol, formalin), abiding by relevant state and federal legislation. This should include where appropriate onboard storage for chemicals, as well as personal protective gear, ventilation, and safety data sheets for hazardous chemicals.
 
 <span style="text-decoration:underline;">Determine if specialists are needed for gear use.</span> Many nets and sleds require experience to prepare, deploy and retrieve. The details below are not targeted for any one particular equipment or system or item, and we recommend engaging an experienced crew who have previously deployed similar devices.
 

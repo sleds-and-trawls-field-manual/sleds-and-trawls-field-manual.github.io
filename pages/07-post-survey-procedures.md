@@ -19,7 +19,7 @@ image:
 
 All data should be publicly released, unless circumstances require otherwise (e.g. confidentiality clause or embargo for commercial work). Even in situations when data cannot be shared, the metadata and deployment information should be made available (Steps 1-2 below). Poor scientific data management and lack of data sharing has been shown to hamper scientific progress (Stocks et al. 2016).
 
-Traditional, data related to biological specimens have been delivered as presence-only taxonomic identifications. These are often managed by individual museum scientists or curators and subsequently harvested by the Atlas of Living Australia (ALA). Ala does not yet include absences or information related to sampling effort, thus reducing the applicability of such databases to monitoring purposes. 
+Traditionally, data related to biological specimens have been delivered as presence-only taxonomic identifications. These are often managed by individual museum scientists or curators and subsequently harvested by the Atlas of Living Australia (ALA). ALA does not yet include absences or information related to sampling effort, thus reducing the applicability of such databases to monitoring purposes. 
 
 OBIS is using the data structure described in the project called OBIS-ENV-DATA that allows the linking of species data to other related information (e.g. environmental data, images, sampling effort) (De Pooter et al. 2017). It now has the capacity to store absence records and sampling effort, and is working to include this information in data downloads.
 
@@ -48,7 +48,7 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 *   The data is tested for any temporal or spatial outliers.
 *   Any observed parameters (biotic and abiotic) are matched where possible to vocabularies maintained by AODN and BODC.
 *   Metadata is authored from any existing metadata or publications.
-*   Finally the datasets is published via the OBIS Australia data node[ http://ogc-act.csiro.au/ipt/](http://ogc-act.csiro.au/ipt/)
+*   Finally the datasets are published via the OBIS Australia data node[ http://ogc-act.csiro.au/ipt/](http://ogc-act.csiro.au/ipt/)
 
 OBISAU has the option to publish the data at the same time directly to GBIF, and it has developed a service to inform ALA that a new dataset is available to be harvested for inclusion into ALA.
 
