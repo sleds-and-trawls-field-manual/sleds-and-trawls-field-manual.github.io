@@ -27,16 +27,16 @@ For further information on the advantages and disadvantages of sleds and trawls 
 .tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
 .tg .tg-3mv5{background-color:#629ACD;color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1609px">
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 201px">
-<col style="width: 201px">
-<col style="width: 201px">
-<col style="width: 201px">
-<col style="width: 201px">
-<col style="width: 202px">
-<col style="width: 201px">
-<col style="width: 201px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
