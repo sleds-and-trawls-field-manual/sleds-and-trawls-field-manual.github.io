@@ -559,3 +559,7 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
   </tr>
 </tbody>
 </table>
+
+<p>
+  <sup>1</sup> Specifiy if tissues or other biological data collected, condition of sample, characteristics that may degrade with storage (e.g. smell, colour).<br>
+</p>
