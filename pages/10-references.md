@@ -8,13 +8,25 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
+  Abdul Wahab, M.A., Radford, B., Fromont, J., Hosie, A.M., Miller, K. and Heyward, A. 2019. The diversity and distribution of mesophotic benthic invertebrates at Ningaloo Reef, Western Australia. Mar. Biodivers. 49, 2871–2886.
+
+
   Bax, N., R. Kloser, A. Williams, K. Gowlett-Holmes, and T. Ryan. 1999. Seafloor habitat definition for spatial management in fisheries: a case study on the continental shelf of southeast Australia. Oceanologica Acta 22:705-720.
+
+
+  Bearham, D., Strzelecki, J., Hara, A. Hosie, A. et al. 2022. Habitats and benthic biodiversity across a tropical estuarine-marine gradient in the eastern Kimberley region of Australia. Regional Studies in Marine Science 49:102039.
 
 
   Billett, D. S. M., B. J. Bett, A. L. RIce, M. H. Thurston, J. Galeron, M. Sibuet, and G. A. Wolff. 2001. Long-term change in the megabenthos of the Porcupine Abyssal Plain (NE Atlantic). Progress in Oceanography 50:325-348.
 
 
+  Blake, J.A. 2023. New species of Scalibregmatidate (Annelida) from slope and abyssal depths off eastern Australia. Records of the Australian Museum 75:271-298.
+
+
   Brenke, N. 2005. An epibenthic sledge for operations on marine soft bottom and bedrock. Marine Technology Society Journal 39:10-19.
+
+
+  Carter, A.B., Mckenna, S.A., Rasheed, M.A., Collier, C., McKenzie, L., Pitcher, R., and Coles, R. 2021. Synthesizing 35 years of seagrass spatial data from the Great Barrier Reef World Heritage Area, Queensland, Australia. Limnology and Oceanography Letters 6:216-226.
 
 
   Clark, M. R., N. W. Bagley, and B. Harley. 2016. Trawls. Pages 126-158 _in_ M. R. Clark, M. Consalvey, and A. A. Rowden, editors. Biological Sampling in the Deep Sea. Wiley Blackwell, West Sussex.
@@ -44,7 +56,7 @@ image:
   Foster, S.; G. Hosack, J.; Monk, E. Lawrence, N. Barrett, A. Williams, A. & R. Przeslawski. 2019. Spatially-Balanced Designs for Transect-Based Surveys. _Methods in Ecology and Evolution 11, 95-105_
 
 
-  Hirst, A. J. 2004. Broad-scale environmental gradients among estuarine benthic macrofaunal assemblages of south-eastern Australia: implications for monitoring estuaries. Marine and Freshwater Research 55:79-92.
+  Gielings, R., Fais, M., Fontaneto, D., Creer, S., Costa, F.O., Renema, W. and Macher, J-N. 2021. DNA metabarcoding methods for the study of marine benthic meiofauna: A review. Frontiers in Marine Science 8.Hirst, A. J. 2004. Broad-scale environmental gradients among estuarine benthic macrofaunal assemblages of south-eastern Australia: implications for monitoring estuaries. Marine and Freshwater Research 55:79-92.
 
 
   Hirst, A.J., 2006. Influence of taxonomic resolution on multivariate analyses of arthropod and macroalgal reef assemblages. Marine Ecology Progress Series 324, 83-93.
@@ -69,6 +81,9 @@ image:
 
 
   O’Hara, T., A. Williams, S.N.C. Woolley, A.W. Nau, N.J. Bax. 2020b. Deep-sea temperate-tropical faunal transition across uniform environmental gradients. Deep-Sea Research I [https://doi.org/10.1016/j.dsr.2020.103283](https://doi.org/10.1016/j.dsr.2020.103283).
+
+
+  O’Hara, T., Williams, A., Ahyong, S.T., Alderslade, P., et al. 2020c. The lower bathyal and abyssal seafloor fauna of eastern Australia. Marine Biodiversity Records 13:11.
 
 
   Poore, G.B., L. Avery, M. Błażewicz-Paszkowycz, J. Browne, N. Bruce, S. Gerken, C. Glasby, E. Greaves, A. McCallum, D. Staples, A. Syme, J. Taylor, G. Walker-Smith, M. Warne, C. Watson, A.  Williams, R. Wilson, S. Woolley. 2015. Invertebrate diversity of the unexplored marine western margin of Australia: taxonomy and implications for global biodiversity. Marine Biodiversity 45, 271-286.
