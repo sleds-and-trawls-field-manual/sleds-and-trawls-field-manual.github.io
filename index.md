@@ -7,11 +7,11 @@ image:
   feature: /banners/banner.jpg
 ---
 
-<div align="center"><p style="font-size:20px;"><a href="mailto:rachel.przeslawski@ga.gov.au">Rachel Przeslawski</a>, Franzis Althaus, Lara Atkinson, Malcolm Clark, Jamie Colquhoun, Dan Gledhill, Scott Foster, Tim O’Hara</p></div><br>
+<div align="center"><p style="font-size:20px;"><a href="mailto:rachel.przeslawski@dpi.nsw.gov.au">Rachel Przeslawski</a>, Franzis Althaus, Lara Atkinson, Malcolm Clark, Jamie Colquhoun, Dan Gledhill, Scott Foster, Tim O’Hara</p></div><br>
 <img src="images/sleds-and-trawls.jpg" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Przeslawski R, Althaus F, Atkinson L, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, O’Hara T. 2020. Marine sampling field manual for benthic sleds and bottom trawls. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</em>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
+<strong>Chapter citation:</strong><br>Przeslawski R, Althaus F, Atkinson L, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, O’Hara T. 2020. Marine sampling field manual for benthic sleds and bottom trawls. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 3</em>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
 
 | Chapter Contents                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------|
