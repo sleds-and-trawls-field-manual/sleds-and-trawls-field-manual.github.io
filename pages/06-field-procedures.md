@@ -338,365 +338,224 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
 </table>
 
 <p>
-<sup>8 </sup>Record the length and angle of wire payed out during seafloor contact. This is required if deep water survey with no USBL; otherwise recommended.<br><sup>9 </sup>Include units (e.g. kilograms)<br><sup>10</sup> Record person entering data, spread of trawl doors if applicable<br><sup>11</sup> UTC timezone
+  <sup>8</sup> Record the length and angle of wire payed out during seafloor contact. This is required if deep water survey with no USBL; otherwise recommended.<br>
+  <sup>9</sup> Include units (e.g. kilograms).<br>
+  <sup>10</sup> Record person entering data, sub-sampling, spread of trawl doors if applicable<br>
+  <sup>11</sup> UTC timezone
 </p>
-
 
 <p>
-<strong>Table 8.3:</strong> Sample field datasheet to record metadata from each sorted biological sample. Waterproof paper and pen/pencil is required.
+<strong>Table 8.3:</strong> Sample field datasheet to record metadata from each sorted biological sample. Waterproof paper and pen/pencil (or waterproof rugged tablet) are required.
 </p>
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-3mv5{background-color:#629ACD;color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-  <thead>
-   <td><strong>Tow ID</strong></td>
-   <td><strong>Sample ID</strong></td>
-   <td><strong>Phylum</strong></td>
-   <td><strong>Class</strong></td>
-   <td><strong>Order</strong></td>
-   <td><strong>Family</strong></td>
-   <td><strong>Genus, Species / Common Name</strong></td>
-   <td><strong>Weight</strong></td>
-   <td><strong>Abundance</strong></td>
-   <td><strong>Preservative / Quantity</strong></td>
-   <td><strong>Photos</strong></td>
-   <td><strong>Notes</strong></td>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Tow ID</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sample ID</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Phylum</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Class</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Order</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Family</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Genus, Species / Common Name</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Weight</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Abundance</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Preservative / Quantity</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Photos</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Notes</span><sup>1</sup></th>
   </tr>
-  </thead>
-  <tbody>
+</thead>
+<tbody>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+  </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"><br><br><br><br></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+  </tr>
+</tbody>
+</table>
