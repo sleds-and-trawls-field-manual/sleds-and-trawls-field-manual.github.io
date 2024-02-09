@@ -75,26 +75,26 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1609px">
 <colgroup>
-<col style="width: 56px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 78px">
-<col style="width: 122px">
-<col style="width: 118px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 69px">
-<col style="width: 142px">
-<col style="width: 127px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 120px">
+<col style="width: 120px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 50px">
+<col style="width: 130px">
+<col style="width: 130px">
 </colgroup>
 <thead>
   <tr>
