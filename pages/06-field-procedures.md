@@ -84,8 +84,8 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
 <col style="width: 50px">
 <col style="width: 50px">
 <col style="width: 50px">
-<col style="width: 120px">
-<col style="width: 120px">
+<col style="width: 100px">
+<col style="width: 100px">
 <col style="width: 50px">
 <col style="width: 50px">
 <col style="width: 50px">
@@ -93,8 +93,8 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
 <col style="width: 50px">
 <col style="width: 50px">
 <col style="width: 50px">
-<col style="width: 130px">
-<col style="width: 130px">
+<col style="width: 100px">
+<col style="width: 100px">
 </colgroup>
 <thead>
   <tr>
