@@ -102,11 +102,11 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
     <th class="tg-rkxx" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear in water</span></th>
     <th class="tg-rkxx" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear on bottom</span></th>
     <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Tow speed</span></th>
-    <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Wire out (length)</span>8</th>
-    <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Wire out (angle)</span>8</th>
+    <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Wire out (length)</span><sup>8</sup>sup></th>
+    <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Wire out (angle)</span><sup>8</sup>sup></th>
     <th class="tg-rkxx" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear off bottom</span></th>
     <th class="tg-rkxx" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear out of water</span></th>
-    <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Total catch biomass</span>9</th>
+    <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Total catch biomass</span><sup>9</sup>sup></th>
     <th class="tg-rkxx"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Notes</span>10</th>
   </tr>
 </thead>
@@ -119,7 +119,7 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
     <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Lon</span></td>
     <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Lat</span></td>
     <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Depth</span></td>
-    <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Time</span>11</td>
+    <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Time</span><sup>11</sup></td>
     <td class="tg-pq8d"></td>
     <td class="tg-pq8d"></td>
     <td class="tg-pq8d"></td>
@@ -129,7 +129,7 @@ A visual summary of the key onboard steps to follow when deploying benthic sleds
     <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Time</span>11</td>
     <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Lon</span></td>
     <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Lat</span></td>
-    <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Time</span>11</td>
+    <td class="tg-mq98"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Time</span><sup>11</sup></td>
     <td class="tg-pq8d"></td>
     <td class="tg-pq8d"></td>
   </tr>
