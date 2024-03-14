@@ -8,7 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Leadership and Collaboration]([https://introduction-field-manual.github.io/universal-protocols#indigenous-partnership-and-engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration)) in Chapter 1 for further details.
+<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Leadership and Collaboration](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details.
 
 <span style="text-decoration:underline;">Identify a chief biologist or ecologist</span> who will be responsible for making decisions related to samples onboard, particularly regarding prioritisation of samples during onboard processing. This will be particularly helpful during busy periods with large hauls or multiple back-to-back tows. If 24-hour operations are planned, a second-in-charge will be needed as well.
 
