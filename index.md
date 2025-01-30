@@ -11,7 +11,7 @@ image:
 <img src="images/sleds-and-trawls.jpg" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Przeslawski R, Althaus F, Atkinson L, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, O’Hara T. 2020. Marine sampling field manual for benthic sleds and bottom trawls. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 3</em>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
+<strong>Chapter citation:</strong><br>Przeslawski R, Althaus F, Atkinson L, Clark M, Colquhoun J, Gledhill D, Flukes E, Foster S, O’Hara T. 2024. Marine sampling field manual for benthic sleds and bottom trawls. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 3</em>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
 
 | Chapter Contents                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------|
